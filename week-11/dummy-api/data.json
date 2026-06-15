@@ -1,0 +1,58 @@
+{
+   "products": [
+      {
+         "id": "1",
+         "name": "Gaming Keyboard",
+         "category": "Electronics",
+         "brand": "Logitech",
+         "price": 120,
+         "stock": 25,
+         "warehouse": "Warehouse A"
+      },
+      {
+         "id": "2",
+         "name": "Wireless Mouse",
+         "category": "Electronics",
+         "brand": "Razer",
+         "price": 80,
+         "stock": 40,
+         "warehouse": "Warehouse B"
+      },
+      {
+         "id": "3",
+         "name": "Office Chair",
+         "category": "Furniture",
+         "brand": "IKEA",
+         "price": 250,
+         "stock": 15,
+         "warehouse": "Warehouse A"
+      },
+      {
+         "id": "4",
+         "name": "Mechanical Pencil",
+         "category": "Stationery",
+         "brand": "Faber-Castell",
+         "price": 5,
+         "stock": 120,
+         "warehouse": "Warehouse C"
+      },
+      {
+         "id": "5",
+         "name": "LED Monitor 24 Inch",
+         "category": "Electronics",
+         "brand": "Samsung",
+         "price": 220,
+         "stock": 18,
+         "warehouse": "Warehouse B"
+      }
+   ],
+   "users": [
+      {
+         "id": 1,
+         "email": "admin@mail.com",
+         "username": "admin123",
+         "password": 123,
+         "avatar": null
+      }
+   ]
+}
