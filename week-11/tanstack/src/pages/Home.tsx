@@ -1,11 +1,14 @@
 import React from "react";
-import Navbar from "../components/Navbar";
 
 const Home = () => {
   return (
     <div>
-      <Navbar />
-      <div>Home</div>
+      <div>
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aut aliquid
+        dicta quas, voluptas, labore tempora commodi aliquam illum repudiandae
+        voluptatem, vitae laudantium quasi hic dolorum! Numquam id laboriosam
+        facilis natus!
+      </div>
     </div>
   );
 };
